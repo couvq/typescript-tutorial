@@ -11,3 +11,5 @@ let employee: Employee = {
         console.log(date);
     }
 }
+
+console.log(employee);
