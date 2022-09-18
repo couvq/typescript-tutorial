@@ -28,3 +28,5 @@ let textBox: UIWidget = {
     drag: () => {},
     resize: () => {}
 };
+
+let quantity: 50 = 50;
