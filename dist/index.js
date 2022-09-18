@@ -7,4 +7,8 @@ let employee = {
     }
 };
 console.log(employee);
+let textBox = {
+    drag: () => { },
+    resize: () => { }
+};
 //# sourceMappingURL=index.js.map
